@@ -1,19 +1,27 @@
 # random-sampling-of-files
 
 Put random_sampling in the same file as your classified folder. Run the command below in terminal:
---------------------------------------------------------------------------------------------------
-python3 random_samlping.py
---------------------------------------------------------------------------------------------------
 
-THe folder is organised as below before running the source file:
+python3 random_samlping.py
+
+
+The folder is organised as below before running the source file:
 your-folder-name/
-├── Normal/                
-├── raining/             
+
+├── Normal/
+                
+├── raining/
+             
 ├── rainy but not raining/
-├── snowing/              
+
+├── snowing/
+              
 ├── snowy but not snowing/ 
+
 ├── unclear/              
+
 ├── Hazy/                  
+
 ├── random_sampling.py     
 
 And after running the code:
